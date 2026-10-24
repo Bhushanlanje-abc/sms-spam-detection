@@ -121,3 +121,6 @@ This project is under development. The text-model training script currently need
 ## Disclaimer
 
 This project is for educational and research purposes. It does not guarantee the detection of every spam or fraudulent message.
+
+
+## Author : Bhushan Lanje
